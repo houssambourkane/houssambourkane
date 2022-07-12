@@ -1,9 +1,9 @@
+![alt text](https://github.com/houssambourkane/houssambourkane/blob/main/banner_devops2.png?raw=true)
+
+<br/>  
+
 [![hbourkan's 42 stats](https://badge.mediaplus.ma/greenbinary/hbourkan)](https://github.com/oakoudad/badge42)
 
-<br/>  
-<br/>  
-
-![alt text](https://github.com/houssambourkane/houssambourkane/blob/main/banner_devops2.png?raw=true)
 <br/>  
 
 ## Skill set
